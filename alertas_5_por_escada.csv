@@ -1,0 +1,61 @@
+id_escada,estacao,grupo,perfil,total_alertas,leitura_5o_alerta,data_hora,comp_linear,comp_binaria
+ESC-001,Luz,não crítica,desgaste gradual,71,166,2026-09-07 22:00,167,14
+ESC-002,Fradique Coutinho,não crítica,saudável,0,não atinge,-,240,16
+ESC-003,São Paulo-Morumbi,crítica,falhas pontuais,7,105,2026-09-05 09:00,106,10
+ESC-004,Pinheiros,não crítica,saudável,0,não atinge,-,240,16
+ESC-005,São Paulo-Morumbi,não crítica,saudável,0,não atinge,-,240,16
+ESC-006,São Paulo-Morumbi,não crítica,saudável,0,não atinge,-,240,16
+ESC-007,Paulista,não crítica,falhas pontuais,7,201,2026-09-09 09:00,202,15
+ESC-008,Fradique Coutinho,crítica,falhas pontuais,8,204,2026-09-09 12:00,205,14
+ESC-009,Fradique Coutinho,crítica,saudável,0,não atinge,-,240,16
+ESC-010,Faria Lima,não crítica,saudável,0,não atinge,-,240,16
+ESC-011,Luz,não crítica,saudável,0,não atinge,-,240,16
+ESC-012,República,não crítica,desgaste gradual,94,138,2026-09-06 18:00,139,14
+ESC-013,Higienópolis-Mackenzie,não crítica,saudável,0,não atinge,-,240,16
+ESC-014,Butantã,não crítica,desgaste gradual,77,164,2026-09-07 20:00,165,15
+ESC-015,Faria Lima,não crítica,saudável,0,não atinge,-,240,16
+ESC-016,Luz,não crítica,desgaste gradual,84,155,2026-09-07 11:00,156,14
+ESC-017,Pinheiros,não crítica,saudável,0,não atinge,-,240,16
+ESC-018,Vila Sônia,crítica,saudável,0,não atinge,-,240,16
+ESC-019,Vila Sônia,não crítica,desgaste gradual,66,173,2026-09-08 05:00,174,15
+ESC-020,Oscar Freire,crítica,saudável,0,não atinge,-,240,16
+ESC-021,Pinheiros,não crítica,saudável,0,não atinge,-,240,16
+ESC-022,República,não crítica,saudável,0,não atinge,-,240,16
+ESC-023,Fradique Coutinho,crítica,falhas pontuais,4,não atinge,-,240,16
+ESC-024,Paulista,não crítica,saudável,0,não atinge,-,240,16
+ESC-025,Luz,não crítica,desgaste gradual,111,122,2026-09-06 02:00,123,15
+ESC-026,Faria Lima,crítica,saudável,0,não atinge,-,240,16
+ESC-027,Higienópolis-Mackenzie,não crítica,saudável,0,não atinge,-,240,16
+ESC-028,República,não crítica,desgaste gradual,83,148,2026-09-07 04:00,149,14
+ESC-029,República,não crítica,saudável,0,não atinge,-,240,16
+ESC-030,Pinheiros,não crítica,desgaste gradual,63,180,2026-09-08 12:00,181,13
+ESC-031,Butantã,não crítica,saudável,0,não atinge,-,240,16
+ESC-032,São Paulo-Morumbi,não crítica,saudável,0,não atinge,-,240,16
+ESC-033,São Paulo-Morumbi,crítica,desgaste gradual,87,155,2026-09-07 11:00,156,15
+ESC-034,Butantã,não crítica,saudável,0,não atinge,-,240,16
+ESC-035,Oscar Freire,não crítica,desgaste gradual,83,161,2026-09-07 17:00,162,15
+ESC-036,Oscar Freire,não crítica,saudável,0,não atinge,-,240,16
+ESC-037,Paulista,não crítica,saudável,0,não atinge,-,240,16
+ESC-038,Higienópolis-Mackenzie,não crítica,desgaste gradual,71,151,2026-09-07 07:00,152,13
+ESC-039,Vila Sônia,não crítica,saudável,0,não atinge,-,240,16
+ESC-040,São Paulo-Morumbi,não crítica,desgaste gradual,113,124,2026-09-06 04:00,125,15
+ESC-041,Higienópolis-Mackenzie,não crítica,saudável,0,não atinge,-,240,16
+ESC-042,Luz,não crítica,desgaste gradual,95,146,2026-09-07 02:00,147,14
+ESC-043,Faria Lima,não crítica,falhas pontuais,5,230,2026-09-10 14:00,231,14
+ESC-044,Paulista,crítica,saudável,0,não atinge,-,240,16
+ESC-045,Faria Lima,não crítica,saudável,0,não atinge,-,240,16
+ESC-046,Butantã,não crítica,desgaste gradual,68,168,2026-09-08 00:00,169,15
+ESC-047,São Paulo-Morumbi,não crítica,saudável,0,não atinge,-,240,16
+ESC-048,Faria Lima,não crítica,saudável,0,não atinge,-,240,16
+ESC-049,Higienópolis-Mackenzie,não crítica,desgaste gradual,100,135,2026-09-06 15:00,136,13
+ESC-050,Butantã,não crítica,desgaste gradual,65,173,2026-09-08 05:00,174,15
+ESC-051,Butantã,não crítica,saudável,0,não atinge,-,240,16
+ESC-052,Higienópolis-Mackenzie,não crítica,falhas pontuais,8,158,2026-09-07 14:00,159,12
+ESC-053,República,não crítica,saudável,0,não atinge,-,240,16
+ESC-054,Vila Sônia,crítica,saudável,0,não atinge,-,240,16
+ESC-055,Fradique Coutinho,não crítica,saudável,0,não atinge,-,240,16
+ESC-056,Faria Lima,crítica,saudável,0,não atinge,-,240,16
+ESC-057,Pinheiros,não crítica,desgaste gradual,103,133,2026-09-06 13:00,134,14
+ESC-058,São Paulo-Morumbi,crítica,saudável,0,não atinge,-,240,16
+ESC-059,Paulista,não crítica,saudável,0,não atinge,-,240,16
+ESC-060,Higienópolis-Mackenzie,não crítica,desgaste gradual,65,175,2026-09-08 07:00,176,15

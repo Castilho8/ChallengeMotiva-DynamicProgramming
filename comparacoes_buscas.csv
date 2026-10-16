@@ -1,0 +1,5 @@
+teste,busca,total,media,minimo,maximo
+id_1000_consultas,linear,30649,30.65,1,60
+id_1000_consultas,binaria,8950,8.95,1,11
+5_alertas_por_escada,linear,12568,209.47,106,240
+5_alertas_por_escada,binaria,915,15.25,10,16
